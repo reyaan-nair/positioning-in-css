@@ -1,0 +1,30 @@
+.sticky{
+    position:sticky;
+    width:100px;
+    border:solid 5px purple;
+    left:20px;
+    top:1px;
+    background-color:purple;
+    opacity: 0.2;
+}
+.absoulute{
+    position:absoulute;
+    width:300px;
+    border:solid 2px orange;
+    left:100px;
+    top:100px;
+}
+.relative{
+    position:relative;
+    width:200px;
+    border:solid 5px green;
+    left:120px;
+    top:50px;
+}
+.fixed{
+    position:fixed;
+    width:100px;
+    border:solid 5px blue;
+    left:50px;
+    top:200px;
+}
